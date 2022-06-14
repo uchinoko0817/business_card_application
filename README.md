@@ -8,5 +8,5 @@ Flutter学習のために作成した簡易的な名刺交換アプリケーシ�
 - 暗号化対応SQLite：[sqflite_sqlcipher](https://pub.dev/packages/sqflite_sqlcipher)
 - QRコード生成：[qr_flutter](https://pub.dev/packages/qr_flutter)
 - QRコード読取り：[qr_code_scanner](https://pub.dev/packages/qr_code_scanner)
-- アプリ権限リクエスト表示：[permission_handler](https://pub.dev/packages/permission_handler)
+- アプリ権限リクエスト：[permission_handler](https://pub.dev/packages/permission_handler)
 - 交換用電文の暗号化：[encrypt](https://pub.dev/packages/encrypt)
